@@ -1,2 +1,2 @@
 # kumar-angulargrid-master
-Angular JS Grid 
+Angular JS UI Grid 
